@@ -1,0 +1,1 @@
+this.calculator = new CalcController;
